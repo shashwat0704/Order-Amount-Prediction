@@ -16,6 +16,8 @@ Matplotlib<br>
 Seaborn<br>
 To install these packages, you can run the following command:
 <br>
+import anHtmlFile from './anHtmlFile.html';
+copyCodeBlock(anHtmlFile, options);
 pip install -r requirements.txt
 
 # Milestones
