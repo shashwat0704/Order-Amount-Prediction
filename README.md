@@ -6,27 +6,16 @@ The objective of the summer internship project is:
 To build a Machine Learning Model to predict the order amount, customers might make in the upcoming days.
 You will be receiving an orders dataset that contains the past orders information and behavior of various buyers. Based on the previous orders patterns, the ML model needs to predict what will be the amount of orders the customer is going to place in the upcoming days. 
 
-# Project Structure
-
-The project is structured as follows:
-
-
-
-data/ : This directory contains the dataset used for training and evaluation.
-notebooks/ : This directory contains Jupyter notebooks for each milestone of the project.
-requirements.txt : This file lists the required packages and dependencies for running the project.
-README.md : This file provides an overview of the project and its objectives.
-
-Requirements
+# Project Requirements
 The project requires the following packages to be installed:
 
-Pandas
-NumPy
-Scikit-learn
-Matplotlib
-Seaborn
+Pandas<br>
+NumPy<br>
+Scikit-learn<br>
+Matplotlib<br>
+Seaborn<br>
 To install these packages, you can run the following command:
-
+<br>
 pip install -r requirements.txt
 
 # Milestones
